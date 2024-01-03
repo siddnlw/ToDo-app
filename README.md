@@ -30,6 +30,6 @@ npm start
 
 ## Screenshots
 
-[!Screenshot](./screenshots/1.jpeg)
-[!Screenshot](./screenshots/2.jpeg)
-[!Screenshot](./screenshots/3.jpeg)
+<img src="./screenshots/1.jpeg" width="150" />
+<img src="./screenshots/2.jpeg" width="150" />
+<img src="./screenshots/3.jpeg" width="150" />
